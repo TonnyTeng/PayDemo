@@ -1,0 +1,17 @@
+platform :ios,'8.0'
+target 'JingXianPayDemo' do
+
+pod 'AFNetworking','~>3.1.0'
+pod 'JSONModel','~>1.4.0'
+pod 'MJRefresh','~>3.1.12'
+pod 'IQKeyboardManager'
+pod 'CocoaLumberjack', '~> 3.1'
+pod 'SDWebImage','~>3.8.1'
+pod 'MBProgressHUD'
+pod 'PunchScrollView','~>1.1.1'
+pod 'HYBHelperKit','~>0.2.0'
+pod 'JSONKit-NoWarning','~>1.2'
+pod 'GTMBase64', '~> 1.0'
+pod 'SVPullToRefresh'
+
+end

@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  JingXianPayDemo
+//
+//  Created by dengtao on 2017/4/12.
+//  Copyright © 2017年 dengtao. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "XTFrame.h"
+#import "JXPCornfig.h"
+#import "JXPCore.h"
+
+#endif /* PrefixHeader_pch */
+//   /Users/jija/Desktop/JingXianPayDemo/JingXianPayDemo/Global/PrefixHeader.pch
+//  $(SRCROOT)
